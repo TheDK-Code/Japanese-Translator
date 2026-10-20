@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p class="underline">Chest Clicker!</p>
+<p class="instructions">Click the green flag then the man in the middle to start. After he asks what you would like to translate a box will appear at the bottom. Type into that box what you would like to translate: e.g. 'Hello'. The man will then say the translated version of that word into japanese.
+
+Enjoy!</p>
+
+	<iframe src="https://scratch.mit.edu/projects/1382890601/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe> 
+<style>
+	body {
+        background-color: black
+}
+	.underline {
+    		 font-size: 100px;
+             text-decoration-line: underline;
+             text-decoration-style: solid;
+             text-decoration-color: Red;
+             color: Red
+}
+
+	.instructions {
+    			 font-size: 30px;
+                 color: gold
+}
+	
+</style>
+</body>
+</html>
